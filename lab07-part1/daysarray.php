@@ -19,7 +19,7 @@
      $days_fr = array("Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi");
 
     echo "<h2>The days of the week in French are:</h2>";
-    echo "<p>" . implode(",", $days) . "</p>";
+    echo "<p>" . implode(",", $days) . "</p>";  
 ?>
 </body>
 </html>
