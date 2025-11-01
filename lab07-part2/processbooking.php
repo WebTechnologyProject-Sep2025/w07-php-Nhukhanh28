@@ -42,10 +42,10 @@
         
         echo "<p>Welcome <strong>$fullName</strong>!</p>";
         echo "<p>You are now booked on the $bookingItems.</p>";
-        echo "<p>Species: $species"
-        echo "<p>Age: $age"
-        echo "<p>Meal Preference: $food"
-        echo "<p>Number of travellers: $partysize"
+        echo "<p>Species: $species";
+        echo "<p>Age: $age";
+        echo "<p>Meal Preference: $food";
+        echo "<p>Number of travellers: $partysize";
         
     } else {
         // Display the error if essential data is missing
